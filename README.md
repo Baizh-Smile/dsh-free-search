@@ -1,3 +1,5 @@
+声明：
+本仓库是原项目 DDDMUC/dsh-free-search 的分支/复刻（fork），原作者为 DDDMUC。所有代码与逻辑版权归原作者所有，此处为自用维护与二次分发。
 # dsh-free-search
 
 **DeepSeek Harness 免费搜索插件 —— 无需 API key，零成本，多引擎可切换。** 一个给 DeepSeek Harness (dsh) 添加多引擎搜索 provider 的插件，注册进 `ctx.web` seam。内置 `web_search` 工具自动选用，支持网页设置页切换引擎、配置 API key、一键测试所有引擎、弹出式命令切换引擎。
